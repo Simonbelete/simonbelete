@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### [Visit my website here](https://simonbelete.com)
+#### [Visit my website here.](https://simonbelete.com)
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/simon_belete)
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/simonbelete/pens/public)
